@@ -2,8 +2,8 @@
 
 Trying to make one corner of the ecosystem a better place.
 
-| [kube.rs](https://kube.rs) | [clux.dev](https://clux.dev/) | [dotfiles](https://github.com/clux/dotfiles#dotfiles)
-| - | - | - |
+| [kube.rs](https://kube.rs) | [clux.dev](https://clux.dev/) | [dotfiles](https://github.com/clux/dotfiles) | [sponsorship](https://github.com/sponsors/clux/)
+| - | - | - | - |
 
 ---
 
