@@ -1,9 +1,9 @@
-### ᐸcluxᐳ Rust + Kubernetes Developer
+### Rust + Kubernetes Developer
 
 Trying to make one corner of the ecosystem a better place.
 
-| [kube.rs](https://kube.rs) | [blog](https://clux.dev/) |
-| - | - |
+| [kube.rs](https://kube.rs) | [clux.dev](https://clux.dev/) | [dotfiles](https://github.com/clux/dotfiles#dotfiles)
+| - | - | - |
 
 ---
 
