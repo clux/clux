@@ -1,7 +1,6 @@
-# ᐸcluxᐳ
-## Rust + Kubernetes Developer
+### ᐸcluxᐳ Rust + Kubernetes Developer
 
-> Trying to make one corner of the ecosystem a better place.
+Trying to make one corner of the ecosystem a better place.
 
 | [kube.rs](https://kube.rs) | [blog](https://clux.dev/) |
 | - | - |
