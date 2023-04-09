@@ -1,8 +1,8 @@
-### Rust + Kubernetes Developer
+### Rust ∩ Kubernetes
 
 Trying to make one corner of the ecosystem a better place.
 
-| [kube.rs](https://kube.rs) | [clux.dev](https://clux.dev/) | [dotfiles](https://github.com/clux/dotfiles) | [sponsorship](https://github.com/sponsors/clux/)
+| [kube.rs](https://kube.rs) | [clux.dev](https://clux.dev/) | [dotfiles](https://github.com/clux/dotfiles) | [funding](https://github.com/sponsors/clux/)
 | - | - | - | - |
 
 ---
